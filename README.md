@@ -1,4 +1,8 @@
-- When you visit the website you will see an input box with a submit button below.
+- Fork and clone this repository.
+- Navigate to the cloned repository's directory on your command line.
+- Open the file in VS.code.
+- Open the index.html page and go live, this will take you to the landing page of the website
+- On the landing page of the website you will see an input box with a submit button below.
 - If you click the empty input box and click get info button, an error message will be displayed on the screen, saying "Must input a sport name".
 - You will be able to type the name of the sport in the input box to get the facts about that sport.
 - Once you input a text with a sport name, an image related to the sport name will be displayed on the page along with a link below the same image.
