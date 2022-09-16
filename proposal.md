@@ -1,17 +1,16 @@
 # Front-end-Portfolio-Project
 
-I will create an application using the PURSUIT API for products data.
+I will create an application using the PURSUIT API for sports facts.
 
 ### User Stories
 
-- As a user when I visit the website, I will see images of multiple products.
-- I will be able to click on the product images to get the details about that product.
-- As a user I will be able to select a category from a dropdown button and get details about a particular product belonging to that category.
-- Based on those details I will shop for that product.
+- The user will be able to type a name of the sport that they like to learn facts about in an input box.
+- After typing the correct name they will be able to see an image and a link below it which they can click.
+- As they click the link below the displayed image related to the sport text they had typed they will be directed to a new web page which will have some facts about the sport
 
-#### Shop Stop Project using PURSUIT API
+#### Sports info.com Project using PURSUIT API
 
-![Products API Data Screenshot](./assets/products-data.png)
+![Sports API Data Screenshot](./assets/products-data.png)
 
 
 

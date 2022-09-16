@@ -1,0 +1,153 @@
+body {
+
+    font-family:'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+  }
+  
+  header {
+    background: green;
+    border: 3px solid orange;
+    color: white;
+    text-align: center;
+  }
+  
+  header h1 {
+    padding: 25px;
+  }
+  
+  header h1 span {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 18px;
+    margin-left: 10px;
+  }
+  
+  main {
+    margin: 25px auto;
+    text-align: center;
+    width: 80%;
+  }
+  
+  form {
+    border-bottom: 1px solid black;
+    padding: 25px;
+  }
+  
+  form input {
+    border: 1px solid 
+    black;
+    display: block;
+    margin: 10px auto;
+    width: 200px;
+  }
+  
+  form button {
+    background: beige;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+    font-size: 15px;
+    padding: 10px;
+  }
+
+  button:hover {
+    background-color: orange;
+   
+  }
+  
+  .error {
+    border: 3px solid black;
+    margin-top: 25px;
+    padding: 25px;
+    background-color: 
+    red;
+  }
+  
+  .error .message {
+    color: 
+  red;
+  }
+  
+  .name {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
+  
+  .name article {
+    margin: 50px;
+    padding: 25px;
+    text-align: center;
+  }
+  
+  .name h2 {
+    font-size: 16px;
+    margin: 10px;
+  }
+  
+  .name img {
+    margin: 10px;
+    border: 3px solid orange;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    
+  }
+  
+  .hidden {
+    display: none
+  }
+
+  @media (max-width: 800px) {
+    header {
+      background-color: red;
+    }
+  }
+  
+  .image {
+    border: 3px solid orange;
+    width: 400px;
+    height: 200px;
+    border-radius: 5px;
+  }
+
+  .home {
+    border: 2px solid black;
+    text-align: center;
+    padding: 10px 10px 10px 0px;
+    margin: 10px;
+  }
+
+  nav {
+    padding: 20px;
+
+  }
+
+  .my_pic {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+  }
+
+  .about_main {
+    background-color: antiquewhite;
+  }
+
+  
+  @media (max-width: 800px) {
+    .index_body {
+      background-color: blanchedalmond;
+    }
+  }
+
+  @media (max-width: 900px) {
+    .about_header {
+      background-color: rgba(165, 42, 42, 0.53);
+    }
+  }
+ 
