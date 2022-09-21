@@ -1,3 +1,4 @@
+- The web app can be used to learn some facts about a sport.
 - Fork and clone this repository.
 - Navigate to the cloned repository's directory on your command line.
 - Open the file in VS.code.
@@ -9,4 +10,4 @@
 - When you click the link below the image, a new web page will open which will have a description of the sport.
 - If you would like to navigate back to the main page, you can do so by clicking the "Home" link which is visible in the header section under the name of the sport.
 - The main page has a "About" link in the header section. Clicking this link opens a new page which has some details about the creater of this web application.
-Link to the project.(https://nikeshw.github.io/9-1-front-end-portfolio-project/)
+- Link to the web app.(https://nikeshw.github.io/9-1-front-end-portfolio-project/)
