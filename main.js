@@ -16,7 +16,7 @@ header.append(nav);
 const error = document.querySelector(".error");
 
 const incorrectName = document.querySelector(".incorrect-name");
-console.log(incorrectName);
+// console.log(incorrectName);
 
 const form = document.querySelector("form");
 
@@ -45,7 +45,7 @@ form.addEventListener("submit", (event) => {
   fetch(`${BASE_URL}`)
     .then((res) => res.json())
     .then((res) => {
-      console.log(res);
+      // console.log(res);
 
       for (let sport of res) {
         if (userinput.toLowerCase() === sport.strSport.toLowerCase()) {
