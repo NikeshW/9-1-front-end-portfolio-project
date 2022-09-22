@@ -1,6 +1,4 @@
 - The web app can be used to learn some facts about a sport.
-- Fork and clone this repository.
-- Navigate to the cloned repository's directory on your command line.
 - Open the file in VS.code.
 - Open the index.html page and go live, this will take you to the landing page of the website
 - On the landing page of the website you will see an input box with a submit button below.
